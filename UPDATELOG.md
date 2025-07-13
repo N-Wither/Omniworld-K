@@ -1,3 +1,30 @@
+# 4.2.0 Genius Girl Ivy's Magic Revolution 2
+## New Mods
+- Malum
+- Goblin Traders
+- Expanded AE
+- Mowzie's Mobs
+- Engineered Compatibility
+- Comfort
+- Tectonic
+- Unusual Furniture
+- Another Furniture
+- Dusty Decorations
+- Handcrafted
+- Immersive Aircraft
+- Man of Many Planes
+
+## Removed Mods
+- Lithosphere
+- Oh the Biomes We've Gone
+- MrCrayfish's Furniture Mod
+
+## Changes
+- Added a command `interservermsg` to toggle Inter-server messages
+- Added a command `wsit` (what structure is it) to show structure(s) the player is in
+- Nerfed the amount of iron and coal ores in high altitudes
+- Buffed the power generation (1x -> 4x) for Extreme Reactors
+
 # 4.1.0 Eternal Starlight: Expedition 67
 ## Notable Changes
 - New story "Eternal Starlight: Expedition 67" is out!
