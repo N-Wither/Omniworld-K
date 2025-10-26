@@ -1,3 +1,26 @@
+# 4.3.0 Draco Program
+## Note
+Most record of this version is lost when I reinstalled my Windows, so this update log is incomplete.
+
+## New Mods
+- Draconic Evolution
+- Mystical Agriculture
+- Mystical Agradditions
+- Dyson Cube Project
+- Enchanced Celestials
+- Botany Pots
+- Botany Pots Tiers
+- Jump Over Fences
+- RFTools Utility
+- RFTools Builder
+- And more...
+
+## Changes
+- A new quest line featuring Draconic Evolution
+- A new quest line listing some energy generation methods
+- A new Building Gadget template folder named `buiding_templates` 
+- And more...
+
 # 4.2.0 Genius Girl Ivy's Magic Revolution 2
 ## New Mods
 - Malum
