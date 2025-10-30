@@ -1,25 +1,31 @@
 # 4.3.0 Draco Program
 ## Note
-Most record of this version is lost when I reinstalled my Windows, so this update log is incomplete.
+Rescured from my `Windows.old` folder.
 
 ## New Mods
+- Productive Bees
+- The Bumblezone
+- Replication
+- Replication AE2 Bridge
+- RFTools Utility
+- Brandon's Core
 - Draconic Evolution
+- Botany Pots
+- Botany Trees
+- Botany Pots Tiers
 - Mystical Agriculture
 - Mystical Agradditions
-- Dyson Cube Project
-- Enchanced Celestials
-- Botany Pots
-- Botany Pots Tiers
-- Jump Over Fences
-- RFTools Utility
-- RFTools Builder
-- And more...
+- Mystical Automation
+- Apotheosis x Iron's Spellbooks Compat
+- Chipped Express
+- Enhanced Celestials
+- Mindful Darkness
 
 ## Changes
 - A new quest line featuring Draconic Evolution
 - A new quest line listing some energy generation methods
 - A new Building Gadget template folder named `buiding_templates` 
-- And more...
+- Increased the charging and transferring speed of Player Transmitters.
 
 # 4.2.0 Genius Girl Ivy's Magic Revolution 2
 ## New Mods
