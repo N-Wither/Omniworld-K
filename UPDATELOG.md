@@ -1,3 +1,34 @@
+# 4.4.0 Sta Bo Flies Again
+## New Mods
+- Botany Pots Mystical Agriculture Compat
+- Lighty
+- Mekanism: More Machine
+- Custom Machinery EMI (my own fixed version)
+- Custom Machinery Mekanism
+- FramedBlocks
+- Concurrent Chunk Management Engine
+- T.O Magic 'n Extras
+- Colorwheel
+- Item Zoomer
+- Samurai Dynasty
+- Immersive Posts
+- Create: Copycats+
+- Immersive Melodies
+- Bettend Neoforge
+- Hazen N' Stuff
+- Relics
+- Relics: Artifacts Compat
+
+## Changes
+- New custom machine: Xyank Anastakos Constant Temporal Sink
+- New custom machine: Crystal Growing Chamber
+- New custom machine: AE Circuit Fabricator (inspired by the same machine from StoneBLock 4)
+- New custom machine: AIO Ore Processing Factory
+- Reduced the rotten flesh needed for rotten leather (5 → 3)
+- Reduced the source cost in Sourcesteel recipe (1000 → 200)
+- Reduced the material cost of beam (Dyson Cube Project)
+- Changed some recipes of Immersive Aircraft
+
 # 4.3.0 Draco Program
 ## Note
 Rescured from my `Windows.old` folder.
