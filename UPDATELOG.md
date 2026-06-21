@@ -1,4 +1,9 @@
 # 4.5.0 The Road To Ascension
+## ⚠️ IMPORTANT NOTE
+This update introduces breaking changes to nether, you may need to delete `DIM-1` to generate a new nether, or generate a new world and move all necessary files except `DIM-1` to its save directory.
+
+Always backup before upgrade your modpack!
+
 ## New Mods
 - Chimes
 - Accelerated Rendering
