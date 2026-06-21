@@ -1,3 +1,31 @@
+# 4.5.0 The Road To Ascension
+## New Mods
+- Chimes
+- Accelerated Rendering
+- AE2 WCWT
+- BRNTalk
+- RAMization
+- Reconnectible Chains
+- Ender IO: Conduit Optimizer
+- Ender IO: Evolution
+- Pipe Connector
+- EMI Patternizer
+- Create: Connected
+- Create: Additional Logistics
+- Schematic Energistics
+- Applied Create
+
+## Removed Mods
+- Distant Horizon
+
+## Mod Replacement
+- Even Better Nether -> Better Nether Neoforge
+
+## Changes
+- Create Electric Drive: Increased SU production for basic, advanced and innovative motors
+- Create: Added more alloy recipes for mixer
+- Added recipes for Creative Mode items
+
 # 4.4.0 Sta Bo Flies Again
 ## New Mods
 - Botany Pots Mystical Agriculture Compat
